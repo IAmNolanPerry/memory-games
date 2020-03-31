@@ -1,8 +1,8 @@
-package rocks.nolanperry.snatik;
+package rocks.nolanperry.matches;
 
 import android.app.Application;
 
-import rocks.nolanperry.snatik.utils.FontLoader;
+import rocks.nolanperry.matches.utils.FontLoader;
 
 public class GameApplication extends Application {
 

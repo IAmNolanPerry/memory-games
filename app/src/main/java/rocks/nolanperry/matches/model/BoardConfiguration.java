@@ -1,4 +1,4 @@
-package rocks.nolanperry.snatik.model;
+package rocks.nolanperry.matches.model;
 
 public class BoardConfiguration {
 

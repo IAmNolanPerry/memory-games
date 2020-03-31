@@ -1,4 +1,4 @@
-package rocks.nolanperry.snatik.engine;
+package rocks.nolanperry.matches.engine;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,13 +7,13 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 
-import rocks.nolanperry.snatik.R;
-import rocks.nolanperry.snatik.common.Shared;
-import rocks.nolanperry.snatik.events.ui.ResetBackgroundEvent;
-import rocks.nolanperry.snatik.fragments.DifficultySelectFragment;
-import rocks.nolanperry.snatik.fragments.GameFragment;
-import rocks.nolanperry.snatik.fragments.MenuFragment;
-import rocks.nolanperry.snatik.fragments.ThemeSelectFragment;
+import rocks.nolanperry.matches.R;
+import rocks.nolanperry.matches.common.Shared;
+import rocks.nolanperry.matches.events.ui.ResetBackgroundEvent;
+import rocks.nolanperry.matches.fragments.DifficultySelectFragment;
+import rocks.nolanperry.matches.fragments.GameFragment;
+import rocks.nolanperry.matches.fragments.MenuFragment;
+import rocks.nolanperry.matches.fragments.ThemeSelectFragment;
 
 public class ScreenController {
 

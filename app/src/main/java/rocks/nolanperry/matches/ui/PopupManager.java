@@ -1,4 +1,4 @@
-package rocks.nolanperry.snatik.ui;
+package rocks.nolanperry.matches.ui;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -12,9 +12,9 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.RelativeLayout.LayoutParams;
 
-import rocks.nolanperry.snatik.R;
-import rocks.nolanperry.snatik.common.Shared;
-import rocks.nolanperry.snatik.model.GameState;
+import rocks.nolanperry.matches.R;
+import rocks.nolanperry.matches.common.Shared;
+import rocks.nolanperry.matches.model.GameState;
 
 public class PopupManager {
 	

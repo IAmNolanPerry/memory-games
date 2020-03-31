@@ -1,4 +1,4 @@
-package rocks.nolanperry.snatik.ui;
+package rocks.nolanperry.matches.ui;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -20,13 +20,13 @@ import android.view.ViewGroup;
 import android.view.animation.BounceInterpolator;
 import android.widget.LinearLayout;
 
-import rocks.nolanperry.snatik.R;
-import rocks.nolanperry.snatik.common.Shared;
-import rocks.nolanperry.snatik.events.ui.FlipCardEvent;
-import rocks.nolanperry.snatik.model.BoardArrangment;
-import rocks.nolanperry.snatik.model.BoardConfiguration;
-import rocks.nolanperry.snatik.model.Game;
-import rocks.nolanperry.snatik.utils.Utils;
+import rocks.nolanperry.matches.R;
+import rocks.nolanperry.matches.common.Shared;
+import rocks.nolanperry.matches.events.ui.FlipCardEvent;
+import rocks.nolanperry.matches.model.BoardArrangment;
+import rocks.nolanperry.matches.model.BoardConfiguration;
+import rocks.nolanperry.matches.model.Game;
+import rocks.nolanperry.matches.utils.Utils;
 
 public class BoardView extends LinearLayout {
 

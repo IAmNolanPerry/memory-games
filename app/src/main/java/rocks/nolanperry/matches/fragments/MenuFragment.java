@@ -1,4 +1,4 @@
-package rocks.nolanperry.snatik.fragments;
+package rocks.nolanperry.matches.fragments;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -16,12 +16,12 @@ import android.view.animation.BounceInterpolator;
 import android.widget.ImageView;
 import android.widget.Toast;
 
-import rocks.nolanperry.snatik.R;
-import rocks.nolanperry.snatik.common.Music;
-import rocks.nolanperry.snatik.common.Shared;
-import rocks.nolanperry.snatik.events.ui.StartEvent;
-import rocks.nolanperry.snatik.ui.PopupManager;
-import rocks.nolanperry.snatik.utils.Utils;
+import rocks.nolanperry.matches.R;
+import rocks.nolanperry.matches.common.Music;
+import rocks.nolanperry.matches.common.Shared;
+import rocks.nolanperry.matches.events.ui.StartEvent;
+import rocks.nolanperry.matches.ui.PopupManager;
+import rocks.nolanperry.matches.utils.Utils;
 
 public class MenuFragment extends Fragment {
 

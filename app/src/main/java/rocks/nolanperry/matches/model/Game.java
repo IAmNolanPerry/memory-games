@@ -1,6 +1,6 @@
-package rocks.nolanperry.snatik.model;
+package rocks.nolanperry.matches.model;
 
-import rocks.nolanperry.snatik.themes.Theme;
+import rocks.nolanperry.matches.themes.Theme;
 
 /**
  * This is instance of active playing game

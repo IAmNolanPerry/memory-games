@@ -1,4 +1,4 @@
-package rocks.nolanperry.snatik.ui;
+package rocks.nolanperry.matches.ui;
 
 import java.util.Locale;
 
@@ -8,8 +8,8 @@ import android.view.LayoutInflater;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
-import rocks.nolanperry.snatik.R;
-import rocks.nolanperry.snatik.common.Shared;
+import rocks.nolanperry.matches.R;
+import rocks.nolanperry.matches.common.Shared;
 
 public class DifficultyView extends LinearLayout {
 

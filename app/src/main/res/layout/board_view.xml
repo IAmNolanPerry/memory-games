@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rocks.nolanperry.snatik.ui.BoardView xmlns:android="http://schemas.android.com/apk/res/android"
+<rocks.nolanperry.matches.ui.BoardView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent" 
     android:padding="@dimen/board_padding">
 
-</rocks.nolanperry.snatik.ui.BoardView>
+</rocks.nolanperry.matches.ui.BoardView>

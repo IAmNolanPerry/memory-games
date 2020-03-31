@@ -1,4 +1,4 @@
-package rocks.nolanperry.snatik.fragments;
+package rocks.nolanperry.matches.fragments;
 
 import android.animation.AnimatorSet;
 import android.animation.AnimatorSet.Builder;
@@ -13,12 +13,12 @@ import android.view.ViewGroup;
 import android.view.animation.BounceInterpolator;
 import android.widget.TextView;
 
-import rocks.nolanperry.snatik.R;
-import rocks.nolanperry.snatik.common.Memory;
-import rocks.nolanperry.snatik.common.Shared;
-import rocks.nolanperry.snatik.events.ui.DifficultySelectedEvent;
-import rocks.nolanperry.snatik.themes.Theme;
-import rocks.nolanperry.snatik.ui.DifficultyView;
+import rocks.nolanperry.matches.R;
+import rocks.nolanperry.matches.common.Memory;
+import rocks.nolanperry.matches.common.Shared;
+import rocks.nolanperry.matches.events.ui.DifficultySelectedEvent;
+import rocks.nolanperry.matches.themes.Theme;
+import rocks.nolanperry.matches.ui.DifficultyView;
 
 public class DifficultySelectFragment extends Fragment {
 

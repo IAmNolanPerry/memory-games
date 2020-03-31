@@ -1,4 +1,4 @@
-package rocks.nolanperry.snatik.utils;
+package rocks.nolanperry.matches.utils;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -6,7 +6,7 @@ import android.graphics.Canvas;
 import android.graphics.RectF;
 import android.media.ThumbnailUtils;
 
-import rocks.nolanperry.snatik.common.Shared;
+import rocks.nolanperry.matches.common.Shared;
 
 public class Utils {
 

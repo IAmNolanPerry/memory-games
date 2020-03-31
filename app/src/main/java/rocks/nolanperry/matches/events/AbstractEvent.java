@@ -1,4 +1,4 @@
-package rocks.nolanperry.snatik.events;
+package rocks.nolanperry.matches.events;
 
 public abstract class AbstractEvent implements Event {
 

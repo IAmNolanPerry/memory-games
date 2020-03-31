@@ -1,10 +1,10 @@
-package rocks.nolanperry.snatik.common;
+package rocks.nolanperry.matches.common;
 
 import android.content.Context;
 import android.support.v4.app.FragmentActivity;
 
-import rocks.nolanperry.snatik.engine.Engine;
-import rocks.nolanperry.snatik.events.EventBus;
+import rocks.nolanperry.matches.engine.Engine;
+import rocks.nolanperry.matches.events.EventBus;
 
 public class Shared {
 

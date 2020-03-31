@@ -1,8 +1,8 @@
-package rocks.nolanperry.snatik.events.ui;
+package rocks.nolanperry.matches.events.ui;
 
-import rocks.nolanperry.snatik.events.AbstractEvent;
-import rocks.nolanperry.snatik.events.EventObserver;
-import rocks.nolanperry.snatik.themes.Theme;
+import rocks.nolanperry.matches.events.AbstractEvent;
+import rocks.nolanperry.matches.events.EventObserver;
+import rocks.nolanperry.matches.themes.Theme;
 
 public class ThemeSelectedEvent extends AbstractEvent {
 

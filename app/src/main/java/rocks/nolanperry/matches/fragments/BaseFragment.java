@@ -1,18 +1,18 @@
-package rocks.nolanperry.snatik.fragments;
+package rocks.nolanperry.matches.fragments;
 
 import android.support.v4.app.Fragment;
 
-import rocks.nolanperry.snatik.events.EventObserver;
-import rocks.nolanperry.snatik.events.engine.FlipDownCardsEvent;
-import rocks.nolanperry.snatik.events.engine.GameWonEvent;
-import rocks.nolanperry.snatik.events.engine.HidePairCardsEvent;
-import rocks.nolanperry.snatik.events.ui.BackGameEvent;
-import rocks.nolanperry.snatik.events.ui.FlipCardEvent;
-import rocks.nolanperry.snatik.events.ui.NextGameEvent;
-import rocks.nolanperry.snatik.events.ui.ResetBackgroundEvent;
-import rocks.nolanperry.snatik.events.ui.ThemeSelectedEvent;
-import rocks.nolanperry.snatik.events.ui.DifficultySelectedEvent;
-import rocks.nolanperry.snatik.events.ui.StartEvent;
+import rocks.nolanperry.matches.events.EventObserver;
+import rocks.nolanperry.matches.events.engine.FlipDownCardsEvent;
+import rocks.nolanperry.matches.events.engine.GameWonEvent;
+import rocks.nolanperry.matches.events.engine.HidePairCardsEvent;
+import rocks.nolanperry.matches.events.ui.BackGameEvent;
+import rocks.nolanperry.matches.events.ui.FlipCardEvent;
+import rocks.nolanperry.matches.events.ui.NextGameEvent;
+import rocks.nolanperry.matches.events.ui.ResetBackgroundEvent;
+import rocks.nolanperry.matches.events.ui.ThemeSelectedEvent;
+import rocks.nolanperry.matches.events.ui.DifficultySelectedEvent;
+import rocks.nolanperry.matches.events.ui.StartEvent;
 
 public class BaseFragment extends Fragment implements EventObserver {
 

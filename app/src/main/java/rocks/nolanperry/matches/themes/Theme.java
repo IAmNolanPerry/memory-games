@@ -1,4 +1,4 @@
-package rocks.nolanperry.snatik.themes;
+package rocks.nolanperry.matches.themes;
 
 import java.util.List;
 

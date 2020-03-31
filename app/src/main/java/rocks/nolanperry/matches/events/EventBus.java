@@ -1,4 +1,4 @@
-package rocks.nolanperry.snatik.events;
+package rocks.nolanperry.matches.events;
 
 import java.util.ArrayList;
 import java.util.Collections;

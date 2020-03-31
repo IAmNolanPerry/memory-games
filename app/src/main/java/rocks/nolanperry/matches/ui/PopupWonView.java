@@ -1,4 +1,4 @@
-package rocks.nolanperry.snatik.ui;
+package rocks.nolanperry.matches.ui;
 
 import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
@@ -12,16 +12,16 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import rocks.nolanperry.snatik.R;
-import rocks.nolanperry.snatik.common.Music;
-import rocks.nolanperry.snatik.common.Shared;
-import rocks.nolanperry.snatik.events.ui.BackGameEvent;
-import rocks.nolanperry.snatik.events.ui.NextGameEvent;
-import rocks.nolanperry.snatik.model.GameState;
-import rocks.nolanperry.snatik.utils.Clock;
-import rocks.nolanperry.snatik.utils.Clock.OnTimerCount;
-import rocks.nolanperry.snatik.utils.FontLoader;
-import rocks.nolanperry.snatik.utils.FontLoader.Font;
+import rocks.nolanperry.matches.R;
+import rocks.nolanperry.matches.common.Music;
+import rocks.nolanperry.matches.common.Shared;
+import rocks.nolanperry.matches.events.ui.BackGameEvent;
+import rocks.nolanperry.matches.events.ui.NextGameEvent;
+import rocks.nolanperry.matches.model.GameState;
+import rocks.nolanperry.matches.utils.Clock;
+import rocks.nolanperry.matches.utils.Clock.OnTimerCount;
+import rocks.nolanperry.matches.utils.FontLoader;
+import rocks.nolanperry.matches.utils.FontLoader.Font;
 
 public class PopupWonView extends RelativeLayout {
 

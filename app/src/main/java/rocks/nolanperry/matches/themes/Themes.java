@@ -1,9 +1,9 @@
-package rocks.nolanperry.snatik.themes;
+package rocks.nolanperry.matches.themes;
 
 import android.graphics.Bitmap;
 
-import rocks.nolanperry.snatik.common.Shared;
-import rocks.nolanperry.snatik.utils.Utils;
+import rocks.nolanperry.matches.common.Shared;
+import rocks.nolanperry.matches.utils.Utils;
 
 import java.util.ArrayList;
 

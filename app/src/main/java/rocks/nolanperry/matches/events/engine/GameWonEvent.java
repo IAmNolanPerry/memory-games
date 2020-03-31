@@ -1,8 +1,8 @@
-package rocks.nolanperry.snatik.events.engine;
+package rocks.nolanperry.matches.events.engine;
 
-import rocks.nolanperry.snatik.events.AbstractEvent;
-import rocks.nolanperry.snatik.events.EventObserver;
-import rocks.nolanperry.snatik.model.GameState;
+import rocks.nolanperry.matches.events.AbstractEvent;
+import rocks.nolanperry.matches.events.EventObserver;
+import rocks.nolanperry.matches.model.GameState;
 
 /**
  * When the 'back to menu' was pressed.

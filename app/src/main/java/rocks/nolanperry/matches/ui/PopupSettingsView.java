@@ -1,4 +1,4 @@
-package rocks.nolanperry.snatik.ui;
+package rocks.nolanperry.matches.ui;
 
 import android.content.Context;
 import android.content.Intent;
@@ -10,11 +10,11 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import rocks.nolanperry.snatik.R;
-import rocks.nolanperry.snatik.common.Music;
-import rocks.nolanperry.snatik.common.Shared;
-import rocks.nolanperry.snatik.utils.FontLoader;
-import rocks.nolanperry.snatik.utils.FontLoader.Font;
+import rocks.nolanperry.matches.R;
+import rocks.nolanperry.matches.common.Music;
+import rocks.nolanperry.matches.common.Shared;
+import rocks.nolanperry.matches.utils.FontLoader;
+import rocks.nolanperry.matches.utils.FontLoader.Font;
 
 public class PopupSettingsView extends LinearLayout {
 

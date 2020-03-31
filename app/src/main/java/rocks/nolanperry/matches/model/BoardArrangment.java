@@ -1,12 +1,12 @@
-package rocks.nolanperry.snatik.model;
+package rocks.nolanperry.matches.model;
 
 import java.util.Map;
 
 import android.graphics.Bitmap;
 
-import rocks.nolanperry.snatik.common.Shared;
-import rocks.nolanperry.snatik.themes.Themes;
-import rocks.nolanperry.snatik.utils.Utils;
+import rocks.nolanperry.matches.common.Shared;
+import rocks.nolanperry.matches.themes.Themes;
+import rocks.nolanperry.matches.utils.Utils;
 
 /**
  * Before game starts, engine build new board

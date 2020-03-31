@@ -1,4 +1,4 @@
-package rocks.nolanperry.snatik.fragments;
+package rocks.nolanperry.matches.fragments;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -9,18 +9,18 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import rocks.nolanperry.snatik.R;
-import rocks.nolanperry.snatik.common.Shared;
-import rocks.nolanperry.snatik.events.engine.FlipDownCardsEvent;
-import rocks.nolanperry.snatik.events.engine.GameWonEvent;
-import rocks.nolanperry.snatik.events.engine.HidePairCardsEvent;
-import rocks.nolanperry.snatik.model.Game;
-import rocks.nolanperry.snatik.ui.BoardView;
-import rocks.nolanperry.snatik.ui.PopupManager;
-import rocks.nolanperry.snatik.utils.Clock;
-import rocks.nolanperry.snatik.utils.Clock.OnTimerCount;
-import rocks.nolanperry.snatik.utils.FontLoader;
-import rocks.nolanperry.snatik.utils.FontLoader.Font;
+import rocks.nolanperry.matches.R;
+import rocks.nolanperry.matches.common.Shared;
+import rocks.nolanperry.matches.events.engine.FlipDownCardsEvent;
+import rocks.nolanperry.matches.events.engine.GameWonEvent;
+import rocks.nolanperry.matches.events.engine.HidePairCardsEvent;
+import rocks.nolanperry.matches.model.Game;
+import rocks.nolanperry.matches.ui.BoardView;
+import rocks.nolanperry.matches.ui.PopupManager;
+import rocks.nolanperry.matches.utils.Clock;
+import rocks.nolanperry.matches.utils.Clock.OnTimerCount;
+import rocks.nolanperry.matches.utils.FontLoader;
+import rocks.nolanperry.matches.utils.FontLoader.Font;
 
 public class GameFragment extends BaseFragment {
 

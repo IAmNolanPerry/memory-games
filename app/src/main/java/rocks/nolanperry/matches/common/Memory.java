@@ -1,11 +1,11 @@
-package rocks.nolanperry.snatik.common;
+package rocks.nolanperry.matches.common;
 
 import android.content.Context;
 import android.content.SharedPreferences;
 
 public class Memory {
 
-    private static final String SHARED_PREFERENCES_NAME = "rocks.nolanperry.snatik";
+    private static final String SHARED_PREFERENCES_NAME = "rocks.nolanperry.matches";
     private static String highStartKey = "theme_%d_difficulty_%d";
     private static String bestTimeKey = "themetime_%d_difficultytime_%d";
 

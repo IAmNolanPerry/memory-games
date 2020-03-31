@@ -1,4 +1,4 @@
-package rocks.nolanperry.snatik;
+package rocks.nolanperry.matches;
 
 
 import android.graphics.Bitmap;
@@ -6,14 +6,14 @@ import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 import android.widget.ImageView;
 
-import rocks.nolanperry.snatik.common.Shared;
-import rocks.nolanperry.snatik.engine.Engine;
-import rocks.nolanperry.snatik.engine.ScreenController;
-import rocks.nolanperry.snatik.engine.ScreenController.Screen;
-import rocks.nolanperry.snatik.events.EventBus;
-import rocks.nolanperry.snatik.events.ui.BackGameEvent;
-import rocks.nolanperry.snatik.ui.PopupManager;
-import rocks.nolanperry.snatik.utils.Utils;
+import rocks.nolanperry.matches.common.Shared;
+import rocks.nolanperry.matches.engine.Engine;
+import rocks.nolanperry.matches.engine.ScreenController;
+import rocks.nolanperry.matches.engine.ScreenController.Screen;
+import rocks.nolanperry.matches.events.EventBus;
+import rocks.nolanperry.matches.events.ui.BackGameEvent;
+import rocks.nolanperry.matches.ui.PopupManager;
+import rocks.nolanperry.matches.utils.Utils;
 
 public class MainActivity extends FragmentActivity {
 

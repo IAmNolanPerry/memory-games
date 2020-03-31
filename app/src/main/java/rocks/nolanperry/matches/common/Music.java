@@ -1,9 +1,9 @@
-package rocks.nolanperry.snatik.common;
+package rocks.nolanperry.matches.common;
 
 import android.media.MediaPlayer;
 import android.media.MediaPlayer.OnCompletionListener;
 
-import rocks.nolanperry.snatik.R;
+import rocks.nolanperry.matches.R;
 
 public class Music {
 

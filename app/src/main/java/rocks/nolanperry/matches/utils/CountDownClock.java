@@ -1,4 +1,4 @@
-package rocks.nolanperry.snatik.utils;
+package rocks.nolanperry.matches.utils;
 
 import android.annotation.SuppressLint;
 import android.os.Handler;

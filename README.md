@@ -14,7 +14,7 @@ If you have more ideas or you want to add more options / themes / sounds or what
 
 ### Download It
 
-<a href="https://play.google.com/store/apps/details?id=rocks.nolanperry.snatik">
+<a href="https://play.google.com/store/apps/details?id=rocks.nolanperry.matches">
   <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
 </a>
 
