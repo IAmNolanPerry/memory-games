@@ -1,4 +1,4 @@
-package rocks.nolanperry.snatik;
+package rocks.nolanperry.matches;
 
 import org.junit.Test;
 
